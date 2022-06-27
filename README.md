@@ -12,6 +12,7 @@
 
 - [React JS](https://reactjs.org/)
 - [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Babel](https://babeljs.io/repl)
 
 ---
 
