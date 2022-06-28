@@ -137,3 +137,16 @@ dist
 
 # SvelteKit build / generate output
 .svelte-kit
+
+### react ###
+.DS_*
+**/*.backup.*
+**/*.back.*
+
+node_modules
+
+*.sublime*
+
+psd
+thumb
+sketch
